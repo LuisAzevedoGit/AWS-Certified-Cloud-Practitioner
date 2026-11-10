@@ -39,7 +39,7 @@ Este curso é totalmente gratis disponivel no youtube (link disponivel em "links
 - ✅ Tem *follow-alongs* (pequenos tutoriais no painel AWS). Não saem no exame, mas deixam-te ver os recursos a serem criados, as interfaces e as ferramentas. Vale a pena para o futuro.
 - ✅ O Andrew explica em inglês simples e acrescenta explicações além dos slides, o que ajuda mesmo a perceber.
 - ⚠️ São **13h46min**. É extenso. Os tópicos podiam estar mais bem organizados e dei por mim a repetir apontamentos de coisas já faladas.
-- ⚠️ Cada vez que muda de tópico ouves *"hey, this is Andrew Brown from ExamPro..."*. Ao fim da décima vez já sabes a frase de cor. Acredito que as aulas tenham sido gravadas em vídeos separados e juntadas depois.
+- ⚠️ Cada vez que muda de tópico ouves *"hey, this is Andrew Brown from ExamPro..."*. Ao fim da décima vez já sabes a frase de cor. Acredito que as aulas tenham sido gravadas em vídeos separados e depois juntaram em um só.
 
 **O meu método:** fui tirando apontamentos por aula (blocos de cerca de 1h), pedia ao Claude para melhorar a organização e esclarecer dúvidas, e fazia todos os follow-alongs tal como no vídeo.
 
