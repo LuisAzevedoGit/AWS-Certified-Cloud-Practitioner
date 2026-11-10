@@ -154,7 +154,7 @@ Cheguei ao fim da minha primeira aventura de certificações. Cumpri o objetivo,
 
 Entretanto, continuo a perseguir o objetivo principal: **entrar na área de DevOps** e tornar-me um excelente profissional.
 
-Espero que tenham gostado da viagem e que este repositório ajude quem quer chegar ao mesmo sítio. Se tiveres sugestões, dúvidas, ou só quiseres trocar ideias, fala comigo no [LinkedIn] (*www.linkedin.com/in/luís-azevedo-1510ba346*).
+Espero que tenham gostado da viagem e que este repositório ajude quem quer chegar ao mesmo sítio. Se tiveres sugestões, dúvidas, ou só quiseres trocar ideias, fala comigo no LinkedIn (*www.linkedin.com/in/luís-azevedo-1510ba346*).
 
 Obrigado, e muito sucesso para ti! 🍀
 
